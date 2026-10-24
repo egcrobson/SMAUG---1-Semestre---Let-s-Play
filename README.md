@@ -6,13 +6,17 @@
 
 **Um jogo de terror e quebra-cabeças em pixel art, feito em Construct 2.**
 
-Projeto **SMAUG** do 1º semestre — Fatec Carapicuíba
+Projeto do grupo **Smaug** · Jogos Digitais · 1º semestre de 2021 — Fatec Carapicuíba
 
 ![Construct 2](https://img.shields.io/badge/Construct%202-r244-1f6feb?style=flat-square)
 ![HTML5](https://img.shields.io/badge/HTML5-WebGL-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Gênero](https://img.shields.io/badge/g%C3%AAnero-terror%20%2F%20puzzle-8b0000?style=flat-square)
 ![Classificação](https://img.shields.io/badge/classifica%C3%A7%C3%A3o-16%20anos-red?style=flat-square)
 ![Status](https://img.shields.io/badge/status-demo-lightgrey?style=flat-square)
+
+<br>
+
+<a href="https://devrobson.itch.io/lets-play"><img src="https://img.shields.io/badge/Baixar%20no-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Baixar no itch.io"></a>
 
 </div>
 
@@ -35,6 +39,14 @@ Entre armadilhas, salas trancadas, pergaminhos enigmáticos e bilhetes deixados 
 <sub><b>Fred</b>, o protagonista &nbsp;·&nbsp; <b>???</b>, o anfitrião misterioso</sub>
 
 </div>
+
+## ⬇️ Baixar e jogar
+
+O jogo está disponível no **itch.io**:
+
+👉 **[devrobson.itch.io/lets-play](https://devrobson.itch.io/lets-play)**
+
+Baixe o arquivo `Let's Play 1JDM.rar`, extraia o conteúdo e abra o executável do jogo.
 
 ## 🎮 Como jogar
 
@@ -113,13 +125,12 @@ O projeto foi salvo com o **Construct 2 (release 244)**, que roda no Windows.
 
 ## 👥 Equipe
 
-Desenvolvido pela **Owl Studio Games** como projeto do 1º semestre na **Fatec Carapicuíba**.
+Desenvolvido pela **Owl Studio Games** — grupo **Smaug**, turma da manhã do curso de **Jogos Digitais** da **Fatec Carapicuíba**.
 
-| Nome | Função | GitHub |
-| --- | --- | --- |
-| Robson | — | [@egcrobson](https://github.com/egcrobson) |
-| *Nome* | *Função* | *@usuario* |
-| *Nome* | *Função* | *@usuario* |
+| Nome | Links |
+| --- | --- |
+| **Robson dos Santos Silva** | [GitHub](https://github.com/egcrobson) · [itch.io](https://devrobson.itch.io) · [Linktree](https://linktr.ee/devrobson) |
+| **Leonardo Souza de Oliveira** | — |
 
 <div align="center">
 <img src="Animations/LogoOwl/Default/000.png" alt="Owl Studio Games" width="200">
@@ -132,7 +143,7 @@ Desenvolvido pela **Owl Studio Games** como projeto do 1º semestre na **Fatec C
 
 ## 🏫 Contexto acadêmico
 
-Trabalho desenvolvido no **1º semestre** do curso da **Fatec Carapicuíba**, como parte do projeto **SMAUG**.
+Proposta de um *escape room* desenvolvida no **1º semestre de 2021** do curso de **Jogos Digitais** da **Fatec Carapicuíba**, pelo grupo **Smaug**.
 
 ---
 
